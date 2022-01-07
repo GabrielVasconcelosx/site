@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Cards from 'next/image'
-import styles from '../styles/Home.module.css'
+import styles from '../styles/header.module.css'
 
 export default function Home() {
   return (

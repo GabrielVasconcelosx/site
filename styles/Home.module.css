@@ -1,3 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+.logo{
+  font-family: Ubuntu;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 34px;
+  text-align: center;
+  color: #1A374D;
+}
+
+.logo span{
+  color: #F24E29;
+}
+
+.logo span:nth-of-type(2){
+  color: #0099A8;
+} 
+
 .container {
   padding: 0 2rem;
 }
